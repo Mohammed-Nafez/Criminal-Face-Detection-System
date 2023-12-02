@@ -12,7 +12,7 @@ import concurrent.futures
 import time
 
 pygame.mixer.init()
-sound = pygame.mixer.Sound(r'C:\Users\Mohammd Nafez Aloul\PycharmProjects\pythonProject2\Alarms\wrong-answer-129254.mp3')
+sound = pygame.mixer.Sound(r'Alarms\wrong-answer-129254.mp3')
 
 class FaceRecognition:
     face_encodings = []
