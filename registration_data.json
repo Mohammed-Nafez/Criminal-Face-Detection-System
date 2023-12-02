@@ -1,0 +1,83 @@
+[
+    {
+        "Full Name": "hamza",
+        "Birthday": "2000-01-01",
+        "ID": "1932590",
+        "Gender": "Male",
+        "Phone Number": "0791757633",
+        "Address": "amman",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\hamza.jpg"
+    },
+    {
+        "Full Name": "mohammd nafez aloul",
+        "Birthday": "2000-01-01",
+        "ID": "1932590",
+        "Gender": "Male",
+        "Phone Number": "0791757633",
+        "Address": "amman jordan",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\mohammd nafez aloul.jpg"
+    },
+    {
+        "Full Name": "jhon",
+        "Birthday": "2000-01-01",
+        "ID": "556789225",
+        "Gender": "Male",
+        "Phone Number": "0794536882",
+        "Address": "usa",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\jhon.jpg"
+    },
+    {
+        "Full Name": "Ronnie D.Anderson",
+        "Birthday": "1983-07-05",
+        "ID": "553168561",
+        "Gender": "Male",
+        "Phone Number": "+529445823",
+        "Address": "zarqa/jordan",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\Ronnie D.Anderson.jpg"
+    },
+    {
+        "Full Name": "John Andrew Brown",
+        "Birthday": "1987-07-05",
+        "ID": "5668432493",
+        "Gender": "Male",
+        "Phone Number": "+52668942",
+        "Address": "ahashmi-ahshmali/amman",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\John Andrew Brown.jpg"
+    },
+    {
+        "Full Name": "Elon Musk",
+        "Birthday": "1965-07-20",
+        "ID": "565558267",
+        "Gender": "Male",
+        "Phone Number": "+52364975",
+        "Address": "yasmmen/amman",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\Elon Musk.jpg"
+    },
+    {
+        "Full Name": "cristiano",
+        "Birthday": "2000-01-01",
+        "ID": "5555887651",
+        "Gender": "Male",
+        "Phone Number": "159/88765",
+        "Address": "spain",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\cristiano.jpg"
+    },
+    {
+        "Full Name": "messi",
+        "Birthday": "2000-01-01",
+        "ID": "49455134898",
+        "Gender": "Male",
+        "Phone Number": "448989823",
+        "Address": "miami",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\messi.jpg"
+    },
+    {
+        "Full Name": "aleson",
+        "Birthday": "2000-01-01",
+        "ID": "45454",
+        "Gender": "Male",
+        "Phone Number": "4844",
+        "Address": "uk",
+        "Image Path": "C:\\Users\\Mohammd Nafez Aloul\\PycharmProjects\\pythonProject2\\images\\aleson.jpg"
+    }
+]
